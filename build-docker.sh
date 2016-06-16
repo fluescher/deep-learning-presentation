@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t florian/tensorflow .
+docker build -t fluescher/tensorflow .
