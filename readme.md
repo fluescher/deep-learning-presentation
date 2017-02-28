@@ -13,7 +13,6 @@ https://www.udacity.com/course/deep-learning--ud730
 To execute the examples, you need docker installed. After that, you can execute
 
 ```bash
-./build-docker.sh
 ./run-docker.sh
 ```
 
