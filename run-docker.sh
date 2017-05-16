@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker run -it -v ${PWD}/notebook:/notebooks -p 8888:8888 tensorflow/tensorflow:1.0.0-py3
+docker run -it -v ${PWD}/notebook:/notebooks -p 8888:8888 tensorflow/tensorflow:latest-py3
 
